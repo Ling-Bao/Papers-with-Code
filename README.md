@@ -14,3 +14,5 @@
 #### [5 Simultaneous Localization and Mapping(SLAM)](slam.md)
 
 #### [6 Deep learning theory](deep-learning-theory.md)
+
+#### [7 Datasets](datasets.md)
