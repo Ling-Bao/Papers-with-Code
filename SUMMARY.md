@@ -7,4 +7,5 @@
 * [Deepth estimation and Visual Odometry](deepth-estimation-and-visual-odometry.md)
 * [SLAM](slam.md)
 * [Deep learning theory](deep-learning-theory.md)
+* [Datasets](datasets.md)
 
