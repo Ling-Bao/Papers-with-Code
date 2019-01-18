@@ -15,4 +15,6 @@
 
 #### [6 Deep learning theory](deep-learning-theory.md)
 
-#### [7 Datasets](datasets.md)
+#### [7 Image Retrieve](image-retrieve.md)
+
+#### [8 Datasets](datasets.md)

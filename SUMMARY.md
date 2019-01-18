@@ -8,4 +8,5 @@
 * [SLAM](slam.md)
 * [Deep learning theory](deep-learning-theory.md)
 * [Datasets](datasets.md)
+* [Image Retrieve](image-retrieve.md)
 
