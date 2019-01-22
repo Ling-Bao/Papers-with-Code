@@ -25,3 +25,6 @@
 
 ##### 2013
 - CVPR - All about VLAD [**{pdf}**](http://courses.cs.washington.edu/courses/cse590v/13au/arandjelovic13.pdf)
+
+##### 2012
+- ECCV - Improving Image-Based Localization by Active Correspondence Search [**{pdf}**]
