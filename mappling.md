@@ -12,7 +12,7 @@
 - TPAMI - Efficient & Effective Prioritized Matching for Large-Scale Image-Based Localization [**{pdf}**](http://people.inf.ethz.ch/sattlert/publications/Sattler201XPAMI.pdf) [**{code-c++}**](https://github.com/tsattler/vps)
 
 ##### 2015
-- IROS - Keep it Brief- Scalable Creation of Compressed Localization Maps [**{pdf}**](https://www.researchgate.net/publication/308112906_Keep_it_Brief_Scalable_Creation_of_Compressed_Localization_Maps)
+- IROS - Keep it Brief- Scalable Creation of Compressed Localization Maps [**{pdf}**](https://www.researchgate.net/publication/308112906_Keep_it_Brief_Scalable_Creation_of_Compressed_Localization_Maps) [**{project}**](https://github.com/ethz-asl/maplab/tree/88d8587958c6902e7304a5ef7d88e867b30924b3/algorithms/map-sparsification)
 
 
 ##### 2013
