@@ -13,6 +13,7 @@
 
 ##### 2015
 - IROS - Keep it Brief- Scalable Creation of Compressed Localization Maps [**{pdf}**](https://www.researchgate.net/publication/308112906_Keep_it_Brief_Scalable_Creation_of_Compressed_Localization_Maps) [**{project}**](https://github.com/ethz-asl/maplab/tree/88d8587958c6902e7304a5ef7d88e867b30924b3/algorithms/map-sparsification)
+- ICRA - The gist of maps - Summarizing experience for lifelong localization [**{pdf}**](https://www.researchgate.net/publication/283105697_The_gist_of_maps_-_Summarizing_experience_for_lifelong_localization) [**{project}**](https://github.com/ethz-asl/maplab/tree/88d8587958c6902e7304a5ef7d88e867b30924b3/algorithms/map-sparsification)
 
 
 ##### 2013
