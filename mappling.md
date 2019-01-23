@@ -11,6 +11,9 @@
 ##### 2016
 - TPAMI - Efficient & Effective Prioritized Matching for Large-Scale Image-Based Localization [**{pdf}**](http://people.inf.ethz.ch/sattlert/publications/Sattler201XPAMI.pdf) [**{code-c++}**](https://github.com/tsattler/vps)
 
+##### 2015
+- IROS - Keep it Brief- Scalable Creation of Compressed Localization Maps [**{pdf}**](https://www.researchgate.net/publication/308112906_Keep_it_Brief_Scalable_Creation_of_Compressed_Localization_Maps)
+
 
 ##### 2013
 - Autonomous Robots - OctoMap: An Efficient Probabilistic 3D Mapping Framework Based on Octrees [**{pdf}**](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwiK1JH76cTfAhWBVLwKHVlfDcEQFjABegQICBAC&url=http%3A%2F%2Fwww2.informatik.uni-freiburg.de%2F~hornunga%2Fpub%2Fhornung13auro.pdf&usg=AOvVaw3VL5y4vYD1oMdrltOHdhrK) [**{code-c++}**](https://github.com/OctoMap/octomap) [**{project}**](http://octomap.github.io)
