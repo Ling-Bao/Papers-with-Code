@@ -8,6 +8,3 @@
 - arXiv - Graph Neural Networks: A Review of Methods and Applications [**{pdf}**](https://arxiv.org/pdf/1812.08434.pdf)
 - arXiv - Deep Learning on Graphs: A Survey [**{pdf}**](https://arxiv.org/pdf/1812.04202v1.pdf)
 - arXiv - Bag of Tricks for Image Classification with Convolutional Neural Networks [**{pdf}**](https://arxiv.org/abs/1812.01187) [**{解读}**](https://zhuanlan.zhihu.com/p/51870052)
-
-##### 2017
-- NeurIPS(NIPS) - Attention Is All You Need [**{pdf}**](http://120.52.51.14/papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
