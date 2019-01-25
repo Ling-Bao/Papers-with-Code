@@ -9,6 +9,7 @@
 ##### 2017
 - arXiv - Attention Is All You Need [**{pdf}**](https://arxiv.org/pdf/1706.03762.pdf) [**{code-tensorflow}**](https://github.com/Kyubyong/transformer) [**{code-pytorch}**](https://github.com/jadore801120/attention-is-all-you-need-pytorch) [**{code-keras}**](https://github.com/bojone/attention)
 - AAAI - VINet: Visual Inertial Odometry as a Sequence to Sequence Learning Problem [**{pdf}**](http://www.cs.ox.ac.uk/files/9028/CS-RR-17-05.pdf) [**{PPTX}**](http://120.52.51.96/cseweb.ucsd.edu/classes/sp17/cse252C-a/CSE252C_20170517.pdf)
+- IEEE Transactions on Robotics - VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator [**{pdf}**](https://arxiv.org/pdf/1708.03852.pdf) [**{code-pc}**](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) [**{code-mobile}**](https://github.com/HKUST-Aerial-Robotics/VINS-Mobile)
 
 ##### 2016
 - ICRA - Real-Time Loop Closure in 2D LIDAR SLAM [**{pdf}**](https://ai.google/research/pubs/pub45466)
