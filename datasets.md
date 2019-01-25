@@ -2,6 +2,9 @@
 
 ### Datasets
 
+##### 2018
+- CVPR - Benchmarking 6DOF Outdoor Visual Localization in Changing Conditions [**{pdf}**](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sattler_Benchmarking_6DOF_Outdoor_CVPR_2018_paper.pdf) [**{datasets - Aachen Day-Night | CMU Seasons | RobotCar Seasons}**](http://visuallocalization.net/)
+
 ##### 2015
 - ICCV - PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization [**{pdf}**](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Kendall_PoseNet_A_Convolutional_ICCV_2015_paper.pdf) [**{datasets - Cambridge Landmarks}**](https://github.com/alexgkendall/caffe-posenet)
 
