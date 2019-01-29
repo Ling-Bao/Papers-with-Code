@@ -20,3 +20,5 @@
 #### [8 Datasets](datasets.md)
 
 #### [9 Imitation Learning](imitation-learning.md)
+
+#### [10 Image Processing](image-processing.md)

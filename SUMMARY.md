@@ -10,4 +10,5 @@
 * [Datasets](datasets.md)
 * [Image Retrieve](image-retrieve.md)
 * [Imitation Learning](imitation-learning.md)
+* [Image Processing](image-processing.md)
 
