@@ -7,5 +7,5 @@
 
 ##### 2004
 - TIP - Image Quality Assessment: From Error Visibility to
-Structural Similarity [**{pdf}**](https://ece.uwaterloo.ca/~z70wang/publications/ssim.pdf) [**{code-pytorch}**](https://github.com/Po-Hsun-Su/pytorch-ssim) [**{code-c++}**](https://github.com/yeokm1/ssim)
+Structural Similarity [**{pdf}**](https://ece.uwaterloo.ca/~z70wang/publications/ssim.pdf) [**{code-pytorch}**](https://github.com/Po-Hsun-Su/pytorch-ssim) [**{code-c++}**](https://github.com/yeokm1/ssim) [**{知乎解读}**](https://zhuanlan.zhihu.com/p/49084537)
 
