@@ -18,3 +18,5 @@
 #### [7 Image Retrieve](image-retrieve.md)
 
 #### [8 Datasets](datasets.md)
+
+#### [9 Imitation Learning](imitation-learning.md)
