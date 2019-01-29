@@ -1,6 +1,9 @@
 ### [back](README.md)
 
 ### Deep learning theory and application
+##### 2019
+- AAAI - StNet: Local and Global Spatial-Temporal Modeling for Action Recognition [**{pdf}**](http://mcg.nju.edu.cn/publication/2019/aaai2019_wlm.pdf)
+
 ##### 2018
 - arXiv - An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling [**{pdf}**](https://arxiv.org/pdf/1803.01271.pdf) [**{code-tensorflow}**](https://github.com/locuslab/TCN)
 - CVPR - Total Capture: A 3D Deformation Model for Tracking Faces, Hands, and Bodies [**{pdf}**](http://openaccess.thecvf.com/content_cvpr_2018/papers/Joo_Total_Capture_A_CVPR_2018_paper.pdf)  [**{project}**](http://www.cs.cmu.edu/~hanbyulj/totalcapture/)

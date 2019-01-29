@@ -8,6 +8,7 @@
 - CVPR - InLoc: Indoor Visual Localization with Dense Matching and View Synthesis [**{pdf}**](http://openaccess.thecvf.com/content_cvpr_2018/html/Taira_InLoc_Indoor_Visual_CVPR_2018_paper.html) [**{dataset}**](http://www.ok.sc.e.titech.ac.jp/INLOC/)
 - RA-L - VLocNet++: Deep Multitask Learning for Semantic Visual Localization and Odometry [**{pdf}**](https://arxiv.org/pdf/1804.08366.pdf)
 - IROS - Learning monocular visual odometry with dense 3D mapping from dense 3D flow [**{pdf}**](https://arxiv.org/pdf/1803.02286.pdf)
+- ECCV - GeoDesc: Learning Local Descriptors by Integrating Geometry Constraints [**{pdf}**](https://arxiv.org/pdf/1807.06294.pdf) [**{code-TensorFlow}**](https://github.com/lzx551402/geodesc)
 
 ##### 2017
 - ICRA - maplab: An Open Framework for Research in Visual-inertial Mapping and Localization [**{pdf}**](https://arxiv.org/pdf/1711.10250.pdf) [**{code-c++}**](https://github.com/ethz-asl/maplab)
