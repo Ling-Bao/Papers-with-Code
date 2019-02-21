@@ -1,6 +1,9 @@
 ### [back](README.md)
 
 ### Simultaneous Localization and Mapping(SLAM)
+##### 2019
+- GEN-SLAM: Generative Modeling for Monocular Simultaneous Localization and Mapping - [**{pdf}**](http://export.arxiv.org/abs/1902.02086)
+
 ##### 2018
 - CVPR Workshop(Best Student Paper Award) - Global Pose Estimation with an Attention-based Recurrent Network [**{pdf}**](https://arxiv.org/pdf/1802.06857.pdf)
 - IROS - DS-SLAM: A Semantic Visual SLAM towards Dynamic Environments [**{pdf}**](https://arxiv.org/abs/1809.08379)
@@ -14,6 +17,7 @@
 - arXiv - Robust Keyframe-based Dense SLAM with an RGB-D Camera [**{pdf}**](https://arxiv.org/pdf/1711.05166.pdf) [**{code-c++}**](https://github.com/ZJUCVG/EIBA)
 - ISMAR - Monocular Visual-Inertial State Estimation for Mobile Augmented Reality [**{pdf}**](http://www.ece.ust.hk/~eeshaojie/ismar2017peiliang.pdf) [**{code-mobile}**](https://github.com/HKUST-Aerial-Robotics/VINS-Mobile)
 - ICRA - Detection and Resolution of Motion Conflict in Visual Inertial Odometry [**{pdf}**](https://web.wpi.edu/Pubs/ETD/Available/etd-072918-114830/unrestricted/bpwiselybabu.pdf)
+- AAAI - VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem [**{pdf}**](https://arxiv.org/abs/1701.08376)
 
 ##### 2016
 - ICRA - Real-Time Loop Closure in 2D LIDAR SLAM [**{pdf}**](https://ai.google/research/pubs/pub45466)
