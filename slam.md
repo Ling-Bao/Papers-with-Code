@@ -21,7 +21,7 @@
 
 ##### 2016
 - ICRA - Real-Time Loop Closure in 2D LIDAR SLAM [**{pdf}**](https://ai.google/research/pubs/pub45466)
-- A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles - [**{pdf}**](https://arxiv.org/pdf/1604.07446.pdf)
+- IEEE T-IV - A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles [**{pdf}**](https://arxiv.org/pdf/1604.07446.pdf)
 
 ##### 2010
 - Field Robot(unknown) - Visual Sliding Window SLAM with Application to Planetary Landers [**{pdf}**](https://pdfs.semanticscholar.org/eeae/6c73a41a4ba106e82e10f577019d88302ba5.pdf)
