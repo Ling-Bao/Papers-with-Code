@@ -22,3 +22,5 @@
 #### [9 Imitation Learning](imitation-learning.md)
 
 #### [10 Image Processing](image-processing.md)
+
+#### [11 Learning Materials](learning-materials.md)
