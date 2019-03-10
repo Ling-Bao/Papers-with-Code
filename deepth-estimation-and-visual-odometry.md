@@ -1,6 +1,9 @@
 ### [back](README.md)
 
 ### Deepth estimation and Visual Odometry
+#### 2019
+- CVPR - Neural RGB→D Sensing: Depth and Uncertainty from a Video Camera [**{pdf}**](https://arxiv.org/pdf/1901.02571.pdf) 
+
 ##### 2018
 - CVPR - Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose [**{pdf}**](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yin_GeoNet_Unsupervised_Learning_CVPR_2018_paper.pdf)
 - CVPR - Unsupervised Learning of Monocular Depth Estimation and Visual Odometry with Deep Feature Reconstruction [**{pdf}**](https://arxiv.org/abs/1803.03893) 
