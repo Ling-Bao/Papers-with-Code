@@ -3,6 +3,7 @@
 ### Deep learning theory and application
 ##### 2019
 - AAAI - StNet: Local and Global Spatial-Temporal Modeling for Action Recognition [**{pdf}**](http://mcg.nju.edu.cn/publication/2019/aaai2019_wlm.pdf)
+- CVPR - Deep High-Resolution Representation Learning for Human Pose Estimation [**{pdf}**](http://cn.arxiv.org/pdf/1902.09212.pdf) [**{code-pytorch}**](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) [**{project}**](https://jingdongwang2017.github.io/Projects/HRNet/PoseEstimation.html)
 
 ##### 2018
 - arXiv - An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling [**{pdf}**](https://arxiv.org/pdf/1803.01271.pdf) [**{code-tensorflow}**](https://github.com/locuslab/TCN)
