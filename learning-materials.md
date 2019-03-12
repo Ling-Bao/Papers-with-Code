@@ -10,4 +10,4 @@
 - UFLDL Tutorial [**{link}**](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 
 #### Blog
-- Triplet Loss and Online Triplet Mining in TensorFlow [**{link}**](https://omoindrot.github.io/triplet-loss)
+- Triplet Loss and Online Triplet Mining in TensorFlow [**{link}**](https://omoindrot.github.io/triplet-loss) [**{code-tensorflow}**](https://github.com/omoindrot/tensorflow-triplet-loss)
