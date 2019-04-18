@@ -13,6 +13,9 @@
 
 ##### 2016
 - TPAMI - Efficient & Effective Prioritized Matching for Large-Scale Image-Based Localization [**{pdf}**](http://people.inf.ethz.ch/sattlert/publications/Sattler201XPAMI.pdf) [**{code-c++}**](https://github.com/tsattler/vps)
+- ACCV - A Vote-and-Verify Strategy for Fast Spatial Verification in Image Retrieval [**{pdf}**](http://cs.unc.edu/~jtprice/papers/accv_2016_schoenberger.pdf) [**{colmap-c++}**](https://github.com/colmap/colmap) [**{project}**](https://colmap.github.io/#)
+- CVPR - Structure-from-Motion Revisited [**{pdf}**](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Schonberger_Structure-From-Motion_Revisited_CVPR_2016_paper.pdf) [**{colmap-c++}**](https://github.com/colmap/colmap) [**{project}**](https://colmap.github.io/#)
+- ECCV - Pixelwise View Selection for Unstructured Multi-View Stereo [**{pdf}**](https://www.researchgate.net/publication/305655847_Pixelwise_View_Selection_for_Unstructured_Multi-View_Stereo) [**{colmap-c++}**](https://github.com/colmap/colmap) [**{project}**](https://colmap.github.io/#)
 
 ##### 2015
 - IROS - Keep it Brief- Scalable Creation of Compressed Localization Maps [**{pdf}**](https://www.researchgate.net/publication/308112906_Keep_it_Brief_Scalable_Creation_of_Compressed_Localization_Maps) [**{project}**](https://github.com/ethz-asl/maplab/tree/88d8587958c6902e7304a5ef7d88e867b30924b3/algorithms/map-sparsification)
