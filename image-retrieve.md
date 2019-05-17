@@ -1,6 +1,9 @@
 ### [back](README.md)
 
 ### Image Retrieve
+#### 2019
+- arxiv - D2-Net: A Trainable CNN for Joint Detection and Description of Local Features [**{pdf}**](https://arxiv.org/abs/1905.03561v1) [**{code-pytorch}**](https://github.com/mihaidusmanu/d2-net)
+
 #### 2018
 - IPOL - Efficient Large-scale Image Search with a Vocabulary Tree  [**{pdf}**](http://www.ipol.im/pub/art/2018/199/article.pdf)  [**{code-c++}**](https://github.com/fragofer/voctree)
 - Microsoft - SPTAG: A library for fast approximate nearest neighbor search [**{code-c++}**](https://github.com/microsoft/SPTAG)
