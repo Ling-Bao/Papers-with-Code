@@ -9,6 +9,9 @@
 - RA-L - VLocNet++: Deep Multitask Learning for Semantic Visual Localization and Odometry [**{pdf}**](https://arxiv.org/pdf/1804.08366.pdf)
 - IROS - Learning monocular visual odometry with dense 3D mapping from dense 3D flow [**{pdf}**](https://arxiv.org/pdf/1803.02286.pdf)
 - ECCV - GeoDesc: Learning Local Descriptors by Integrating Geometry Constraints [**{pdf}**](https://arxiv.org/pdf/1807.06294.pdf) [**{code-TensorFlow}**](https://github.com/lzx551402/geodesc)
+- arxiv - From Coarse to Fine: Robust Hierarchical Localization at Large Scale [**{pdf}**](https://arxiv.org/abs/1812.03506)
+- ECCV - Semantic Match Consistency for Long-Term Visual Localization [**{pdf}**](http://openaccess.thecvf.com/content_ECCV_2018/papers/Carl_Toft_Semantic_Match_Consistency_ECCV_2018_paper.pdf)
+- CVPR - InLoc: Indoor Visual Localization with Dense Matching and View Synthesis [**project**](http://www.ok.sc.e.titech.ac.jp/INLOC/) [**{pdf}**](https://arxiv.org/abs/1803.10368)
 
 ##### 2017
 - ICRA - maplab: An Open Framework for Research in Visual-inertial Mapping and Localization [**{pdf}**](https://arxiv.org/pdf/1711.10250.pdf) [**{code-c++}**](https://github.com/ethz-asl/maplab)
@@ -22,6 +25,7 @@
 
 ##### 2016
 - CVPR - NetVLAD: CNN architecture for weakly supervised place recognition [**{pdf}**](http://openaccess.thecvf.com/content_cvpr_2016/papers/Arandjelovic_NetVLAD_CNN_Architecture_CVPR_2016_paper.pdf) [**{code-matlab}**](https://github.com/Relja/netvlad) [**{code-tensorflow}**](https://github.com/uzh-rpg/netvlad_tf_open)
+- TPAMI - City-Scale Localization for Cameras with Known Vertical Direction [**{pdf}**](http://www1.maths.lth.se/matematiklth/vision/publdb/reports/pdf/svarm-enqvist-etal-pami-16.pdf)
 
 ##### 2015
 - ICCV - PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization [**{pdf}**]() [**{code-caffe}**](https://github.com/alexgkendall/caffe-posenet) [**{code-tensorflow}**](https://github.com/kentsommer/tensorflow-posenet) [**{code-keras}**](https://github.com/Ling-Bao/dlloc/tree/master/gan_loc/codes/posenet) [**{project}**](http://mi.eng.cam.ac.uk/projects/relocalisation/)
