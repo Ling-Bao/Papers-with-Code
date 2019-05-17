@@ -26,5 +26,7 @@
 
 #### [11 Learning Materials](learning-materials.md)
 
+#### [12 ML Theory](ml-theory.md)
+
 
 

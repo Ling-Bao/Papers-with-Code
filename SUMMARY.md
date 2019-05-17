@@ -12,4 +12,5 @@
 * [Imitation Learning](imitation-learning.md)
 * [Image Processing](image-processing.md)
 * [Learning Materials](learning-materials.md)
+* [ML Theory](ml-theory.md)
 
