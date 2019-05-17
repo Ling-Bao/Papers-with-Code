@@ -3,3 +3,4 @@
 ### ML Theory
 ##### 2018
 - arxiv - Neural Ordinary Differential Equations [**{pdf}**}](https://arxiv.org/abs/1806.07366) [**{code-pytorch}**](https://github.com/rtqichen/torchdiffeq)
+- arxiv - FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models [**{pdf}**}](https://arxiv.org/abs/1810.01367)
