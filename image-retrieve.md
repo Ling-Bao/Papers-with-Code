@@ -10,6 +10,7 @@
 - arxiv - Detect-to-Retrieve: Efficient Regional Aggregation for Image Search [**{pdf}**](https://arxiv.org/abs/1812.01584) [**{DELF-code-tensorflow}**](https://github.com/tensorflow/models/tree/master/research/delf)
 - arxiv - SuperPoint: Self-supervised interest point detection and description [**{pdf}**](https://arxiv.org/pdf/1712.07629.pdf) [**{code-tensorflow}**](https://github.com/rpautrat/SuperPoint) [**{code-pytorch}**](https://github.com/MagicLeapResearch/SuperPointPretrainedNetwork)
 - ECCV - GeoDesc: Learning Local Descriptors by Integrating Geometry Constraints [**{pdf}**](https://arxiv.org/abs/1807.06294) [**{code-tensorflow}**](https://github.com/lzx551402/geodesc)
+- CoRL - Leveraging Deep Visual Descriptors for Hierarchical Efficient Localization [**{pdf}**](http://proceedings.mlr.press/v87/sarlin18a/sarlin18a.pdf) [**{code}**](https://github.com/ethz-asl/hierarchical_loc)
 
 #### 2017
 - ICCV - Large-Scale Image Retrieval with Attentive Deep Local Features [**{pdf}**](http://openaccess.thecvf.com/content_ICCV_2017/papers/Noh_Large-Scale_Image_Retrieval_ICCV_2017_paper.pdf) [**{DELF-code-tensorflow}**](https://github.com/tensorflow/models/tree/master/research/delf)
