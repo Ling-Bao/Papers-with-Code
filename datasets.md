@@ -4,7 +4,8 @@
 
 ##### 2018
 - CVPR - Benchmarking 6DOF Outdoor Visual Localization in Changing Conditions [**{pdf}**](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sattler_Benchmarking_6DOF_Outdoor_CVPR_2018_paper.pdf) [**{datasets - Aachen Day-Night | CMU Seasons | RobotCar Seasons}**](http://visuallocalization.net/)
-- arxiv - HPatches: A benchmark and evaluation of handcrafted and learned local descriptors [**{pdf}**](https://arxiv.org/abs/1704.05939)
+- CVPR - HPatches: A benchmark and evaluation of handcrafted and learned local descriptors [**{pdf}**](https://arxiv.org/abs/1704.05939)
+- CVPR - LF-Net: Learning Local Features from Images [**{pdf}**](https://arxiv.org/pdf/1805.09662.pdf)
 
 ##### 2015
 - ICCV - PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization [**{pdf}**](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Kendall_PoseNet_A_Convolutional_ICCV_2015_paper.pdf) [**{datasets - Cambridge Landmarks}**](https://github.com/alexgkendall/caffe-posenet)
