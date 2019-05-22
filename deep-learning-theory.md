@@ -16,3 +16,4 @@
 - arXiv - Graph Neural Networks: A Review of Methods and Applications [**{pdf}**](https://arxiv.org/pdf/1812.08434.pdf)
 - arXiv - Deep Learning on Graphs: A Survey [**{pdf}**](https://arxiv.org/pdf/1812.04202v1.pdf)
 - arXiv - Bag of Tricks for Image Classification with Convolutional Neural Networks [**{pdf}**](https://arxiv.org/abs/1812.01187) [**{解读}**](https://zhuanlan.zhihu.com/p/51870052)
+- CVPR - Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics [**{pdf}**](http://mi.eng.cam.ac.uk/~cipolla/archive/Publications/inproceedings/2017-arXiv-multi-task-learning.pdf)
