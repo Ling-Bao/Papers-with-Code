@@ -17,3 +17,6 @@
 
 ##### 2016
 - TPAMI - SIFT Meets CNN: A Decade Survey of Instance Retrieval [**{pdf}**](https://arxiv.org/pdf/1608.01807.pdf)
+
+##### 2015
+- IJCV - Image Search with Selective Match Kernels: Aggregation Across Single and Multiple Images [**{pdf}**](https://hal.inria.fr/hal-01131898/document)
