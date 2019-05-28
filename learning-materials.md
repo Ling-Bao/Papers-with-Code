@@ -1,6 +1,9 @@
 ### [back](README.md)
 
 ### Learning Materials
+##### 2019
+- Automated Machine Learning [**{pdf}**](https://www.automl.org/wp-content/uploads/2019/05/AutoML_Book.pdf)
+
 ##### 2018
 - PythonRobotics: a Python code collection of robotics algorithms [**{pdf}**](https://arxiv.org/pdf/1808.10703.pdf) [**{code-python}**](https://github.com/AtsushiSakai/PythonRobotics)
 
