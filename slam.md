@@ -4,6 +4,7 @@
 ##### 2019
 - GEN-SLAM: Generative Modeling for Monocular Simultaneous Localization and Mapping [**{pdf}**](http://export.arxiv.org/abs/1902.02086)
 - ICRA - CNN-SVO: Improving the Mapping in Semi-Direct Visual Odometry Using Single-Image Depth Prediction [**{pdf}**](https://arxiv.org/pdf/1810.01011.pdf) [**{code-c++)**}(https://github.com/yan99033/CNN-SVO)
+- ICRA - Real-Time Monocular Object-Model Aware Sparse SLAM [**{pdf}**](https://arxiv.org/abs/1809.09149)
 
 ##### 2018
 - CVPR Workshop(Best Student Paper Award) - Global Pose Estimation with an Attention-based Recurrent Network [**{pdf}**](https://arxiv.org/pdf/1802.06857.pdf)
