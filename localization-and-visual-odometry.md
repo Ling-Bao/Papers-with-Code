@@ -22,6 +22,7 @@
 - ICCV - Globally-Optimal Inlier Set Maximisation for Simultaneous Camera Pose and Feature Correspondence [**{pdf}**](https://arxiv.org/pdf/1709.09384.pdf)
 - CVPR - Learned Contextual Feature Reweighting for Image Geo-Localization [**{pdf}**](http://openaccess.thecvf.com/content_cvpr_2017/html/Kim_Learned_Contextual_Feature_CVPR_2017_paper.html)
 - IROS - Deep Regression for Monocular Camera-based 6-DoF Global Localization in Outdoor Environments [**{pdf}**](http://ais.informatik.uni-freiburg.de/publications/papers/naseer17iros.pdf)
+- ICCC - Towards End-to-End Text Spotting in NaturalScenes [**{pdf}**](https://arxiv.org/pdf/1906.06013.pdf)
 
 ##### 2016
 - CVPR - NetVLAD: CNN architecture for weakly supervised place recognition [**{pdf}**](http://openaccess.thecvf.com/content_cvpr_2016/papers/Arandjelovic_NetVLAD_CNN_Architecture_CVPR_2016_paper.pdf) [**{code-matlab}**](https://github.com/Relja/netvlad) [**{code-tensorflow}**](https://github.com/uzh-rpg/netvlad_tf_open)
