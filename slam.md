@@ -7,6 +7,7 @@
 - ICRA - Real-Time Monocular Object-Model Aware Sparse SLAM [**{pdf}**](https://arxiv.org/abs/1809.09149)
 - ICRA- Semantic Mapping for View-Invariant Relocalization [**{pdf}**](http://www.cim.mcgill.ca/~jimmyli/pubs/li2019icra.pdf)
 - ICRA - A Unified Framework for Mutual Improvement of SLAM and Semantic Segmentation [**{pdf}**](https://arxiv.org/abs/1812.10016)
+- ICRA - Multimodal Semantic SLAM with Probabilistic Data Association [**{pdf}**](https://marinerobotics.mit.edu/sites/default/files/doherty_icra2019_revised.pdf)
 
 
 ##### 2018
