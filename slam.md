@@ -12,6 +12,7 @@
 - ICRA - Enhancing V-SLAM Keyframe Selection with an Efficient ConvNet for Semantic Analysis [**{code}**](https://github.com/Shathe/MiniNet)
 
 
+
 ##### 2018
 - CVPR Workshop(Best Student Paper Award) - Global Pose Estimation with an Attention-based Recurrent Network [**{pdf}**](https://arxiv.org/pdf/1802.06857.pdf)
 - IROS - DS-SLAM: A Semantic Visual SLAM towards Dynamic Environments [**{pdf}**](https://arxiv.org/abs/1809.08379)
