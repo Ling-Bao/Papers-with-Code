@@ -10,7 +10,7 @@
 - ICRA - Multimodal Semantic SLAM with Probabilistic Data Association [**{pdf}**](https://marinerobotics.mit.edu/sites/default/files/doherty_icra2019_revised.pdf)
 - ICRA - Efficient Constellation-Based Map-Merging for Semantic SLAM [**{pdf}**](https://arxiv.org/abs/1809.09646)
 - ICRA - Enhancing V-SLAM Keyframe Selection with an Efficient ConvNet for Semantic Analysis [**{code}**](https://github.com/Shathe/MiniNet)
-- ICRA - Pose Graph Optimization for Unsupervised Monocular Visual Odometry [**{pdf}**](Pose Graph Optimization for Unsupervised Monocular Visual Odometry)
+- ICRA - Pose Graph Optimization for Unsupervised Monocular Visual Odometry [**{pdf}**](https://hal.archives-ouvertes.fr/hal-01874593v2/document)
 
 
 ##### 2018
