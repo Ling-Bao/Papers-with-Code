@@ -2,7 +2,8 @@
 
 ### Simultaneous Localization and Mapping(SLAM)
 ##### 2019
-- GEN-SLAM: Generative Modeling for Monocular Simultaneous Localization and Mapping - [**{pdf}**](http://export.arxiv.org/abs/1902.02086)
+- GEN-SLAM: Generative Modeling for Monocular Simultaneous Localization and Mapping [**{pdf}**](http://export.arxiv.org/abs/1902.02086)
+- ICRA - CNN-SVO: Improving the Mapping in Semi-Direct Visual Odometry Using Single-Image Depth Prediction [**{pdf}**](https://arxiv.org/pdf/1810.01011.pdf)
 
 ##### 2018
 - CVPR Workshop(Best Student Paper Award) - Global Pose Estimation with an Attention-based Recurrent Network [**{pdf}**](https://arxiv.org/pdf/1802.06857.pdf)
