@@ -8,6 +8,8 @@
 - ICRA- Semantic Mapping for View-Invariant Relocalization [**{pdf}**](http://www.cim.mcgill.ca/~jimmyli/pubs/li2019icra.pdf)
 - ICRA - A Unified Framework for Mutual Improvement of SLAM and Semantic Segmentation [**{pdf}**](https://arxiv.org/abs/1812.10016)
 - ICRA - Multimodal Semantic SLAM with Probabilistic Data Association [**{pdf}**](https://marinerobotics.mit.edu/sites/default/files/doherty_icra2019_revised.pdf)
+- ICRA - Efficient Constellation-Based Map-Merging for Semantic SLAM [**{pdf}**](https://arxiv.org/abs/1809.09646)
+- ICRA - Enhancing V-SLAM Keyframe Selection with an Efficient ConvNet for Semantic Analysis [**{code}**](https://github.com/Shathe/MiniNet)
 
 
 ##### 2018
