@@ -7,6 +7,7 @@
 - ICRA - Probabilistic Projective Association and Semantic Guided Relocalization for Dense Reconstruction [**{pdf}**](https://cg.cs.tsinghua.edu.cn/papers/ICRA-2019-densemapping.pdf)
 - ICRA - Dense 3D Visual Mapping Via Semantic Simplification [**{pdf}**](https://arxiv.org/abs/1902.07511)
 - ICRA - DeepFusion: Real-Time Dense 3D Reconstruction for Monocular SLAM Using Single-View Depth and Gradient Predictions [**{pdf}**](https://www.imperial.ac.uk/media/imperial-college/research-centres-and-groups/dyson-robotics-lab/tlaidlow_etal_icra2019.pdf)
+- ICRA - Sparse2Dense: From Direct Sparse Odometry to Dense 3D Reconstruction [**{pdf}**](https://arxiv.org/abs/1903.09199v1)
 
 ##### 2018
 - MDPI - Evaluating the Performance of Structure from Motion Pipelines [**{pdf}**](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwixtsi65cTfAhULfXAKHR5BC5AQFjAAegQIChAC&url=https%3A%2F%2Fwww.mdpi.com%2F2313-433X%2F4%2F8%2F98%2Fpdf&usg=AOvVaw19uVOjz50bwMM1m55Sht5s)
