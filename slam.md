@@ -3,7 +3,7 @@
 ### Simultaneous Localization and Mapping(SLAM)
 ##### 2019
 - GEN-SLAM: Generative Modeling for Monocular Simultaneous Localization and Mapping [**{pdf}**](http://export.arxiv.org/abs/1902.02086)
-- ICRA - CNN-SVO: Improving the Mapping in Semi-Direct Visual Odometry Using Single-Image Depth Prediction [**{pdf}**](https://arxiv.org/pdf/1810.01011.pdf) [**{code-c++)**}(https://github.com/yan99033/CNN-SVO)
+- ICRA - CNN-SVO: Improving the Mapping in Semi-Direct Visual Odometry Using Single-Image Depth Prediction [**{pdf}**](https://arxiv.org/pdf/1810.01011.pdf) [**{code-c++)**}](https://github.com/yan99033/CNN-SVO)
 - ICRA - Real-Time Monocular Object-Model Aware Sparse SLAM [**{pdf}**](https://arxiv.org/abs/1809.09149)
 - ICRA- Semantic Mapping for View-Invariant Relocalization [**{pdf}**](http://www.cim.mcgill.ca/~jimmyli/pubs/li2019icra.pdf)
 - ICRA - A Unified Framework for Mutual Improvement of SLAM and Semantic Segmentation [**{pdf}**](https://arxiv.org/abs/1812.10016)
