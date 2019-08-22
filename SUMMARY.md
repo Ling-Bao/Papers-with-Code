@@ -14,4 +14,5 @@
 * [Learning Materials](learning-materials.md)
 * [ML Theory](ml-theory.md)
 * [Famous Scholars](famous-scholars.md)
+* [Application](application.md)
 
