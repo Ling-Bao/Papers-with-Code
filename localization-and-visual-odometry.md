@@ -34,7 +34,7 @@
 ##### 2013
 - CVPR - All about VLAD [**{pdf}**](http://courses.cs.washington.edu/courses/cse590v/13au/arandjelovic13.pdf)
 - ICCV - Joint Inverted Indexing [**{ppt-pdf}**](http://kaiminghe.com/iccv13jkm/iccv13jkm_ppt.pdf)
-- ICCV - Joint Inverted Indexing [**{pdf}**](http://openaccess.thecvf.com/content_iccv_2013/papers/Xia_Joint_Inverted_Indexing_2013_ICCV_paper.pdf)
+- ICCV - Joint Inverted Indexing [**{pdf}**](http://openaccess.thecvf.com/content_iccv_2013/papers/Xia_Joint_Inverted_Indexing_2013_ICCV_paper.pdf) [**{project}**](http://kaiminghe.com/iccv13jkm/index.html)
 - CVPR - Optimized Product Quantization for Approximate Nearest Neighbor Search [**{pdf}**](http://kaiminghe.com/publications/cvpr13opq.pdf) [**{supplementary material}**](http://kaiminghe.com/cvpr13/cvpr13opq_supp.pdf) [**{ppt}**](http://kaiminghe.com/cvpr13/cvpr13opq_ppt.pdf) [**{code}**](http://kaiminghe.com/cvpr13/matlab_OPQ_release_v1.1.rar) [**{project}**](http://kaiminghe.com/cvpr13/index.html)
 
 ##### 2011
