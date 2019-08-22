@@ -1,6 +1,9 @@
 ### [back](README.md)
 
 ### Application
+##### 2017
+- ASTESJ - Augmented Reality Prototype HUD for Passenger Infotainment in a Vehicular Environment [**{pdf}**](https://pdfs.semanticscholar.org/6da9/ad5fa40b6c570fcc19b161e1946685625a98.pdf)
+
 ##### 2016
 - Look at Me: Augmented Reality Pedestrian Warning System Using an In-Vehicle Volumetric Head Up Display [**{pdf}**](https://www.researchgate.net/publication/297761231_Look_at_Me_Augmented_Reality_Pedestrian_Warning_System_Using_an_In-Vehicle_Volumetric_Head_Up_Display)
 
