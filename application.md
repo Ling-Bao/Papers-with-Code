@@ -1,6 +1,9 @@
 ### [back](README.md)
 
 ### Application
+##### 2016
+- Look at Me: Augmented Reality Pedestrian Warning System Using an In-Vehicle Volumetric Head Up Display [**{pdf}**](https://www.researchgate.net/publication/297761231_Look_at_Me_Augmented_Reality_Pedestrian_Warning_System_Using_an_In-Vehicle_Volumetric_Head_Up_Display)
+
 ##### 2013
 - A left-turn driving aid using projected oncoming vehicle paths with augmented reality [**{pdf}**](https://www.researchgate.net/publication/262166316_A_left-turn_driving_aid_using_projected_oncoming_vehicle_paths_with_augmented_reality)
 
