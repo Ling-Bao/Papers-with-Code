@@ -4,6 +4,10 @@
 ##### 2016
 - Look at Me: Augmented Reality Pedestrian Warning System Using an In-Vehicle Volumetric Head Up Display [**{pdf}**](https://www.researchgate.net/publication/297761231_Look_at_Me_Augmented_Reality_Pedestrian_Warning_System_Using_an_In-Vehicle_Volumetric_Head_Up_Display)
 
+##### 2014
+- ACM - Personal Navi: Benefits of an Augmented Reality Navigational Aid Using a See-Thru 3D Volumetric HUD [**{pdf}**](https://www.researchgate.net/publication/266080806_Personal_Navi_Benefits_of_an_Augmented_Reality_Navigational_Aid_Using_a_See-Thru_3D_Volumetric_HUD)
+- IEEE - Design Methods for Augmented Reality In-VehicleInfotainment Systems [**{pdf}**](https://www.researchgate.net/publication/266657441_Design_Methods_for_Augmented_Reality_In-Vehicle_Infotainment_Systems)
+
 ##### 2013
 - A left-turn driving aid using projected oncoming vehicle paths with augmented reality [**{pdf}**](https://www.researchgate.net/publication/262166316_A_left-turn_driving_aid_using_projected_oncoming_vehicle_paths_with_augmented_reality)
 
