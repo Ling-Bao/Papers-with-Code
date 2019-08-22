@@ -28,5 +28,6 @@
 
 #### [12 ML Theory](ml-theory.md)
 
+#### [13 Famous Scholars](famous-scholars.md)
 
 
