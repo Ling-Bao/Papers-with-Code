@@ -1,6 +1,12 @@
 ### [back](README.md)
 
 ### Application
+##### 2013
+- A left-turn driving aid using projected oncoming vehicle paths with augmented reality [**{pdf}**](https://www.researchgate.net/publication/262166316_A_left-turn_driving_aid_using_projected_oncoming_vehicle_paths_with_augmented_reality)
+
+##### 2009
+- ACM - Simulated Augmented Reality Windshield Display as a Cognitive Mapping Aid for Elder Driver Navigation [**{pdf}**](http://user.ceng.metu.edu.tr/~tcan/se542_f1314/Schedule/reading1.pdf)
+
 ##### 2006
 - Augmented reality navigation systems [**{pdf}**](https://www.pervasive.jku.at/Research/Publications/_Documents/AugmentedRealityNavigationSystems-narzt2005.pdf)
 
