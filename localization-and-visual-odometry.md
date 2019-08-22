@@ -33,6 +33,7 @@
 
 ##### 2013
 - CVPR - All about VLAD [**{pdf}**](http://courses.cs.washington.edu/courses/cse590v/13au/arandjelovic13.pdf)
+- ICCV - Joint Inverted Indexing [**{pdf}**](http://kaiminghe.com/iccv13jkm/iccv13jkm_ppt.pdf)
 
 ##### 2011
 - ECCV - Improving Image-Based Localization by Active Correspondence Search [**{pdf}**](http://120.52.51.19/pdfs.semanticscholar.org/cfcb/eeeb9be875f3b8c9ac99af18984d519e98ee.pdf)
