@@ -15,4 +15,5 @@
 * [ML Theory](ml-theory.md)
 * [Famous Scholars](famous-scholars.md)
 * [Application](application.md)
+* [Multiple View Geometry](multiple-view-geometry.md)
 
