@@ -22,5 +22,8 @@
 ##### 2015
 - IJCV - Image Search with Selective Match Kernels: Aggregation Across Single and Multiple Images [**{pdf}**](https://hal.inria.fr/hal-01131898/document) [**{code-c++}**](https://github.com/tsattler/geometric_burstiness)
 
-#### 2014
+##### 2014
 - ACCV - DisLocation: Scalable descriptor distinctiveness for location recognition [**{pdf}**](https://www.robots.ox.ac.uk/~vgg/publications/2014/arandjelovic14a/arandjelovic14a.pdf) [**{code-c++}**](https://github.com/tsattler/geometric_burstiness)
+
+##### 2009
+- CVPR - On the burstiness of visual elements [**{pdf}**](https://hal.inria.fr/inria-00394211v2/document) [**{translation}**](https://blog.csdn.net/liu2012huan/article/details/53301945)
