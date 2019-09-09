@@ -14,6 +14,7 @@
 - Deep Learning [**{link}**](https://www.deeplearningbook.org/)
 - Probabilistic Robotics [**{link}**](http://www.probabilistic-robotics.org/)
 - UFLDL Tutorial [**{link}**](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
+- Convex Optimization [**{link}**](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 
 #### Blog
 - Triplet Loss and Online Triplet Mining in TensorFlow [**{link}**](https://omoindrot.github.io/triplet-loss) [**{code-tensorflow}**](https://github.com/omoindrot/tensorflow-triplet-loss)
