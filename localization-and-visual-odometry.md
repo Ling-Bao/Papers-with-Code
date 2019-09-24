@@ -3,6 +3,7 @@
 ### Localization and Visual Odometry
 ##### 2019
 - ICCV - Local Supports Global- Deep Camera Relocalization with Sequence Enhancement [**{pdf}**](https://arxiv.org/abs/1908.04391)
+- CVPR - Local Features and Visual Words Emerge in Activations [**{pdf}**](https://arxiv.org/abs/1905.06358)
 
 ##### 2018
 - CVPR - Learning Less is More – 6D Camera Localization via 3D Surface Regression [**{pdf}**](http://openaccess.thecvf.com/content_cvpr_2018/papers/Brachmann_Learning_Less_Is_CVPR_2018_paper.pdf) [**{code-Torch}**](https://github.com/vislearn/LessMore) [**{project}**](https://hci.iwr.uni-heidelberg.de/vislearn/research/scene-understanding/pose-estimation/#CVPR18)
