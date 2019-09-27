@@ -26,5 +26,8 @@
 ##### 2014
 - ACCV - DisLocation: Scalable descriptor distinctiveness for location recognition [**{pdf}**](https://www.robots.ox.ac.uk/~vgg/publications/2014/arandjelovic14a/arandjelovic14a.pdf) [**{code-c++}**](https://github.com/tsattler/geometric_burstiness)
 
+#### 2010
+- TPAMI - Product quantization for nearest neighbor search [**{pdf}**](https://lear.inrialpes.fr/pubs/2011/JDS11/jegou_searching_with_quantization.pdf) [**{code-python}**](https://github.com/matsui528/nanopq)
+
 ##### 2009
 - CVPR - On the burstiness of visual elements [**{pdf}**](https://hal.inria.fr/inria-00394211v2/document) [**{translation}**](https://blog.csdn.net/liu2012huan/article/details/53301945)
