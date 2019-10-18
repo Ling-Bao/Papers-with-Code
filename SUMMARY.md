@@ -16,4 +16,5 @@
 * [Famous Scholars](famous-scholars.md)
 * [Application](application.md)
 * [Multiple View Geometry](multiple-view-geometry.md)
+* [Optimization Method](optimization-method.md)
 
