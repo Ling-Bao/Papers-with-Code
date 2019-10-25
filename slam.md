@@ -11,6 +11,7 @@
 - ICRA - Efficient Constellation-Based Map-Merging for Semantic SLAM [**{pdf}**](https://arxiv.org/abs/1809.09646)
 - ICRA - Enhancing V-SLAM Keyframe Selection with an Efficient ConvNet for Semantic Analysis [**{code}**](https://github.com/Shathe/MiniNet)
 - ICRA - Pose Graph Optimization for Unsupervised Monocular Visual Odometry [**{pdf}**](https://hal.archives-ouvertes.fr/hal-01874593v2/document)
+- arxiv - Visual-Inertial Navigation: A Concise Review  [**{pdf}**](https://arxiv.org/abs/1906.02650v1)
 
 
 ##### 2018
