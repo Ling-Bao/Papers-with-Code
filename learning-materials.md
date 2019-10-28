@@ -9,6 +9,7 @@
 
 ##### 2005
 - Indirect Kalman Filter for 3D Attitude Estimation [**{pdf}**](http://mars.cs.umn.edu/tr/reports/Trawny05b.pdf)
+- Strapdown Inertial Navigation Technology  [**{pdf}**](http://docshare04.docshare.tips/files/23602/236021451.pdf)
 
 #### Book
 - Deep Learning [**{link}**](https://www.deeplearningbook.org/)
