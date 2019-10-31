@@ -34,4 +34,6 @@
 
 #### [15 Multiple View Geometry](multiple-view-geometry.md)
 
+#### [16 Optimization Method](optimization-method.md)
+
 
