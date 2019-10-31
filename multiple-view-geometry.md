@@ -2,6 +2,9 @@
 
 ### Multiple View Geometry
 #### 1 Features
+##### 2019
+- arxiv - SOSNet: Second Order Similarity Regularization for Local Descriptor Learning  [**{pdf}**](https://arxiv.org/abs/1904.05019?context=cs)
+
 ##### 2018
 - iCoMET - A Comparative Analysis of SIFT, SURF, KAZE,
 AKAZE, ORB, and BRISK [**{pdf}**](https://www.researchgate.net/publication/323561586_A_comparative_analysis_of_SIFT_SURF_KAZE_AKAZE_ORB_and_BRISK)
