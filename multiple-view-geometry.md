@@ -11,7 +11,7 @@
 AKAZE, ORB, and BRISK [**{pdf}**](https://www.researchgate.net/publication/323561586_A_comparative_analysis_of_SIFT_SURF_KAZE_AKAZE_ORB_and_BRISK)
 
 ##### 2009
-- SIAM Journal on Imaging Sciences - ASIFT: A NEW FRAMEWORK FOR FULLY AFFINE INVARIANT IMAGE COMPARISON  [**{pdf}**](http://www.cmap.polytechnique.fr/~yu/publications/ASIFT_SIIMS_final.pdf) [*{project}**](http://www.cmap.polytechnique.fr/~yu/research/ASIFT/demo.html)
+- SIAM Journal on Imaging Sciences - ASIFT: A NEW FRAMEWORK FOR FULLY AFFINE INVARIANT IMAGE COMPARISON  [**{pdf}**](http://www.cmap.polytechnique.fr/~yu/publications/ASIFT_SIIMS_final.pdf) [**{project}**](http://www.cmap.polytechnique.fr/~yu/research/ASIFT/demo.html)
 
 #### 2 Matching
 ##### 2019
