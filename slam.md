@@ -12,6 +12,7 @@
 - ICRA - Enhancing V-SLAM Keyframe Selection with an Efficient ConvNet for Semantic Analysis [**{code}**](https://github.com/Shathe/MiniNet)
 - ICRA - Pose Graph Optimization for Unsupervised Monocular Visual Odometry [**{pdf}**](https://hal.archives-ouvertes.fr/hal-01874593v2/document)
 - arxiv - Visual-Inertial Navigation: A Concise Review  [**{pdf}**](https://arxiv.org/abs/1906.02650v1)
+- PMID - Indoor Positioning System Based on Chest-Mounted IMU  [**{pdf}**](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=2ahUKEwjWuLbBj9flAhVBBKYKHTJdAMcQFjACegQIAhAC&url=https%3A%2F%2Fwww.mdpi.com%2F1424-8220%2F19%2F2%2F420%2Fpdf&usg=AOvVaw3G8p_-3TjOtBlsi0NXr5ar)
 
 
 ##### 2018
