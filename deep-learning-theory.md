@@ -10,6 +10,9 @@
 - CVPR - Large-Scale Long-Tailed Recognition in an Open Worl [**{pdf}**](https://arxiv.org/pdf/1904.05160.pdf) [**{code-pythorch}**](https://github.com/zhmiao/OpenLongTailRecognition-OLTR) [**{project}**](https://liuziwei7.github.io/projects/LongTail.html)
 - axvir - Momentum Contrast for Unsupervised Visual Representation Learning [**{pdf}**](https://arxiv.org/pdf/1911.05722.pdf)
 - CVPR -  Unsupervised Embedding Learning via Invariant and Spreading Instance Featur [**{pdf}**](https://arxiv.org/pdf/1904.03436.pdf) [**{code-pytorch}**](https://github.com/mangye16/Unsupervised_Embedding_Learning)
+- axvir - BA-Net: Dense Bundle Adjustment Network [**{pdf}**](https://arxiv.org/abs/1806.04807)
+- axvir - PVNet: Pixel-wise Voting Network for 6DoF Pose Estimation [**{pdf}**](https://arxiv.org/pdf/1812.11788.pdf) [**{project}**](https://zju3dv.github.io/pvnet/) [**{code-pytorch}**](https://github.com/zju3dv/pvnet)
+
 
 ##### 2018
 - arXiv - An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling [**{pdf}**](https://arxiv.org/pdf/1803.01271.pdf) [**{code-tensorflow}**](https://github.com/locuslab/TCN)
