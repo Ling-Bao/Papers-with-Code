@@ -5,6 +5,8 @@
 ##### 2019
 - CVPR - SOSNet: Second Order Similarity Regularization for Local Descriptor Learning  [**{pdf}**](https://arxiv.org/abs/1904.05019?context=cs) [**{code-python}**](https://github.com/scape-research/SOSNet) [**{project}**](https://research.scape.io/sosnet/)
 - IEEE TIP - A Performance Evaluation of Local Features for Image-Based 3D Reconstruction  [**{pdf}**](http://www.nlpr.ia.ac.cn/fanbin/feature_evaluation_3d.htm) [**{code}**](http://www.nlpr.ia.ac.cn/fanbin/code/code_feature_evaluation.rar)
+- NeurIPS - GIFT: Learning Transformation-Invariant 
+Dense Visual Descriptors via Group CNNs  [**{pdf}**](https://arxiv.org/abs/1911.05932) [**{project}**](https://zju3dv.github.io/GIFT/) [**{code}**](https://github.com/zju3dv/GIFT) [**{Poster}**](https://zju3dv.github.io/GIFT/gift_poster.pdf)
 
 ##### 2018
 - iCoMET - A Comparative Analysis of SIFT, SURF, KAZE,
