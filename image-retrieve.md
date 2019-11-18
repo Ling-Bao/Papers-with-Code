@@ -18,7 +18,7 @@
 
 ##### 2016
 - TPAMI - SIFT Meets CNN: A Decade Survey of Instance Retrieval [**{pdf}**](https://arxiv.org/pdf/1608.01807.pdf)
-- CVPR - Large-Scale Location Recognition And The Geometric Burstiness Problem [**{pdf}**](http://openaccess.thecvf.com/content_cvpr_2016/papers/Sattler_Large-Scale_Location_Recognition_CVPR_2016_paper.pdf)
+- CVPR - Large-Scale Location Recognition And The Geometric Burstiness Problem [**{pdf}**](http://openaccess.thecvf.com/content_cvpr_2016/papers/Sattler_Large-Scale_Location_Recognition_CVPR_2016_paper.pdf) [**{code-c++}**](https://github.com/tsattler/geometric_burstiness)
 
 ##### 2015
 - IJCV - Image Search with Selective Match Kernels: Aggregation Across Single and Multiple Images [**{pdf}**](https://hal.inria.fr/hal-01131898/document) [**{code-c++}**](https://github.com/tsattler/geometric_burstiness)
