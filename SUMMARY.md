@@ -17,4 +17,5 @@
 * [Application](application.md)
 * [Multiple View Geometry](multiple-view-geometry.md)
 * [Optimization Method](optimization-method.md)
+* [High Quality Blog](high-quality-blog.md)
 

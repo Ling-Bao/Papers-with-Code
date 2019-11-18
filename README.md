@@ -36,4 +36,6 @@
 
 #### [16 Optimization Method](optimization-method.md)
 
+#### [17 High Quality Blog](high-quality-blog.md)
+
 
