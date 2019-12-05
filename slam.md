@@ -14,6 +14,7 @@
 - arxiv - Visual-Inertial Navigation: A Concise Review  [**{pdf}**](https://arxiv.org/abs/1906.02650v1)
 - PMID - Indoor Positioning System Based on Chest-Mounted IMU  [**{pdf}**](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=2ahUKEwjWuLbBj9flAhVBBKYKHTJdAMcQFjACegQIAhAC&url=https%3A%2F%2Fwww.mdpi.com%2F1424-8220%2F19%2F2%2F420%2Fpdf&usg=AOvVaw3G8p_-3TjOtBlsi0NXr5ar)
 - arXiv - Visual Odometry Revisited: What Should Be Learnt?  [**{pdf}**](https://arxiv.org/pdf/1909.09803.pdf) [**{code-pytorch}**](https://github.com/Huangying-Zhan/DF-VO)
+- arXiv - Kimera: an Open-Source Library for Real-Time Metric-Semantic Localization and Mapping  [**{pdf}**](https://arxiv.org/abs/1910.02490) [**{code-c++}**](https://github.com/MIT-SPARK/Kimera-VIO)
 
 
 ##### 2018
