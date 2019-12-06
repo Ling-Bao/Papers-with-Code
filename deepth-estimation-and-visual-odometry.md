@@ -4,6 +4,7 @@
 #### 2019
 - CVPR - Neural RGB→D Sensing: Depth and Uncertainty from a Video Camera [**{pdf}**](https://arxiv.org/pdf/1901.02571.pdf) 
 - ICCV - Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry [**{pdf}**](https://arxiv.org/abs/1908.08704v1)
+- ICCV - Digging into self-supervised monocular depth prediction  [**{pdf}**](https://arxiv.org/pdf/1806.01260.pdf) [**{code-pytorch}**](https://github.com/nianticlabs/monodepth2)
 
 ##### 2018
 - CVPR - Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose [**{pdf}**](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yin_GeoNet_Unsupervised_Learning_CVPR_2018_paper.pdf)
