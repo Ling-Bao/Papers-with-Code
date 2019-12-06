@@ -7,8 +7,6 @@
 - ICCV - Digging into self-supervised monocular depth prediction  [**{pdf}**](https://arxiv.org/pdf/1806.01260.pdf) [**{code-pytorch}**](https://github.com/nianticlabs/monodepth2)
 - ICRA - Self-supervised
 learning for single view depth and surface normal estimation  [**{pdf}**](https://arxiv.org/pdf/1903.00112.pdf)
-- CVPR - Liteflownet: A lightweight con-
-volutional neural network for optical flow estimation  [**{pdf}**](https://arxiv.org/pdf/1805.07036.pdf) [**{code-caffe}**](https://github.com/twhui/LiteFlowNet) [**{code-pytorch}**](https://github.com/sniklaus/pytorch-liteflownet)
 
 ##### 2018
 - CVPR - Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose [**{pdf}**](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yin_GeoNet_Unsupervised_Learning_CVPR_2018_paper.pdf)
