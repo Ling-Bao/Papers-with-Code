@@ -1,6 +1,6 @@
 ### [back](README.md)
 
-### Deepth estimation and Visual Odometry
+### Depth estimation and Visual Odometry
 #### 2019
 - CVPR - Neural RGB→D Sensing: Depth and Uncertainty from a Video Camera [**{pdf}**](https://arxiv.org/pdf/1901.02571.pdf) 
 - ICCV - Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry [**{pdf}**](https://arxiv.org/abs/1908.08704v1)

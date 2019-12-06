@@ -10,7 +10,7 @@
 
 #### [3 Optical Flow Estimation](optical-flow-estimation.md)
 
-#### [4 Deepth estimation and Visual Odometry](deepth-estimation-and-visual-odometry.md)
+#### [4 Depth estimation and Visual Odometry](depth-estimation-and-visual-odometry.md)
 
 #### [5 Simultaneous Localization and Mapping\(SLAM\)](slam.md)
 
