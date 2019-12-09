@@ -7,6 +7,7 @@
 - ICCV - Digging into self-supervised monocular depth prediction  [**{pdf}**](https://arxiv.org/pdf/1806.01260.pdf) [**{code-pytorch}**](https://github.com/nianticlabs/monodepth2)
 - ICRA - Self-supervised
 learning for single view depth and surface normal estimation  [**{pdf}**](https://arxiv.org/pdf/1903.00112.pdf)
+- CoRR - Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video  [**{pdf}**](https://arxiv.org/pdf/1908.10553.pdf)
 
 ##### 2018
 - CVPR - Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose [**{pdf}**](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yin_GeoNet_Unsupervised_Learning_CVPR_2018_paper.pdf)
