@@ -8,6 +8,8 @@
 - ICRA - Self-supervised
 learning for single view depth and surface normal estimation  [**{pdf}**](https://arxiv.org/pdf/1903.00112.pdf)
 - CoRR - Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video  [**{pdf}**](https://arxiv.org/pdf/1908.10553.pdf)
+- arXiv 2019 - SelfVIO: Self-Supervised Deep Monocular Visual-Inertial Odometry and Depth Estimation  [**{pdf}**](https://arxiv.org/pdf/1911.09968.pdf)
+- IROS 2019 - DeepVIO: Self-supervised Deep Learning of Monocular Visual Inertial Odometry using 3D Geometric Constraints  [**{pdf}**](https://arxiv.org/abs/1906.11435)
 
 ##### 2018
 - CVPR - Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose [**{pdf}**](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yin_GeoNet_Unsupervised_Learning_CVPR_2018_paper.pdf)
