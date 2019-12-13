@@ -38,4 +38,6 @@
 
 #### [17 High Quality Blog](high-quality-blog.md)
 
+#### [18 Visual Recognition Task](visual-recognition-task.md)
+
 
