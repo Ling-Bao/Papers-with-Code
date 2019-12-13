@@ -7,7 +7,7 @@
 - CVPR - Hybrid Task Cascade for Instance Segmentation [**{pdf}**](https://arxiv.org/pdf/1901.07518.pdf) [**{code-pytorch}**](https://github.com/open-mmlab/mmdetection)
 - CVPR - CrowdPose: Efficient Crowded Scenes Pose Estimation and A New Benchmark  [**{pdf}**](https://arxiv.org/pdf/1811.10092.pdf) [**{code-pytorch}**](https://github.com/MVIG-SJTU/AlphaPose)
 - CVPR - Learning from Synthetic Data for Crowd Counting in the Wild [**{pdf}**](https://arxiv.org/pdf/1903.03303.pdf) [**{code-c++}**](https://github.com/gjy3035/GCC-CL) [**{project}**](https://gjy3035.github.io/GCC-CL/)
-- CVPR - Large-Scale Long-Tailed Recognition in an Open Worl [**{pdf}**](https://arxiv.org/pdf/1904.05160.pdf) [**{code-pythorch}**](https://github.com/zhmiao/OpenLongTailRecognition-OLTR) [**{project}**](https://liuziwei7.github.io/projects/LongTail.html)
+- CVPR - Large-Scale Long-Tailed Recognition in an Open World [**{pdf}**](https://arxiv.org/pdf/1904.05160.pdf) [**{code-pythorch}**](https://github.com/zhmiao/OpenLongTailRecognition-OLTR) [**{project}**](https://liuziwei7.github.io/projects/LongTail.html)
 - axvir - Momentum Contrast for Unsupervised Visual Representation Learning [**{pdf}**](https://arxiv.org/pdf/1911.05722.pdf)
 - CVPR -  Unsupervised Embedding Learning via Invariant and Spreading Instance Featur [**{pdf}**](https://arxiv.org/pdf/1904.03436.pdf) [**{code-pytorch}**](https://github.com/mangye16/Unsupervised_Embedding_Learning)
 - axvir - BA-Net: Dense Bundle Adjustment Network [**{pdf}**](https://arxiv.org/abs/1806.04807)
