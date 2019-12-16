@@ -13,7 +13,7 @@
 * [Image Processing](image-processing.md)
 * [Learning Materials](learning-materials.md)
 * [ML Theory](ml-theory.md)
-* [Famous Scholars](famous-scholars.md)
+* [Famous Scholars & Group](famous-scholars-group.md)
 * [Application](application.md)
 * [Multiple View Geometry](multiple-view-geometry.md)
 * [Optimization Method](optimization-method.md)

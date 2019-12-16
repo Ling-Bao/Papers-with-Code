@@ -28,7 +28,7 @@
 
 #### [12 ML Theory](ml-theory.md)
 
-#### [13 Famous Scholars & Group](famous-scholars.md)
+#### [13 Famous Scholars & Group](famous-scholars-group.md)
 
 #### [14 Application](application.md)
 
