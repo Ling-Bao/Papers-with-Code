@@ -6,4 +6,5 @@
 
 ##### SLAM & VO
 [**{Tong Qin 秦 通}**](https://qintong.xyz)
+[**{HKUST Aerial Robotics Group}**](http://uav.ust.hk)
 
