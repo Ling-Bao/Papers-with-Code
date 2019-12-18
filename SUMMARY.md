@@ -19,4 +19,5 @@
 * [Optimization Method](optimization-method.md)
 * [High Quality Blog](high-quality-blog.md)
 * [Visual Recognition Task](visual-recognition-task.md)
+* [Nice Open Source project](nice-open-source-project.md)
 
