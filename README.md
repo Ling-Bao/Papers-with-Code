@@ -40,4 +40,6 @@
 
 #### [18 Visual Recognition Task](visual-recognition-task.md)
 
+#### [19 Nice Open Source Project](nice-open-source-project.md)
+
 
