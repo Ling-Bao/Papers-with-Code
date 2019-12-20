@@ -31,6 +31,7 @@
 - ISMAR - Monocular Visual-Inertial State Estimation for Mobile Augmented Reality [**{pdf}**](http://www.ece.ust.hk/~eeshaojie/ismar2017peiliang.pdf) [**{code-mobile}**](https://github.com/HKUST-Aerial-Robotics/VINS-Mobile)
 - ICRA - Detection and Resolution of Motion Conflict in Visual Inertial Odometry [**{pdf}**](https://web.wpi.edu/Pubs/ETD/Available/etd-072918-114830/unrestricted/bpwiselybabu.pdf)
 - AAAI - VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem [**{pdf}**](https://arxiv.org/abs/1701.08376)
+- RAS - S-PTAM: Stereo Parallel Tracking and Mapping  [**{pdf}**](http://webdiis.unizar.es/~jcivera/papers/pire_etal_ras17.pdf) [**{code-python}**](https://github.com/uoip/stereo_ptam) [**{code-c++}**](https://github.com/lrse/sptam)
 
 ##### 2016
 - ICRA - Real-Time Loop Closure in 2D LIDAR SLAM [**{pdf}**](https://ai.google/research/pubs/pub45466)
