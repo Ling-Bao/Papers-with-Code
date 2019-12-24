@@ -16,6 +16,8 @@
 - arxiv - From Coarse to Fine: Robust Hierarchical Localization at Large Scale [**{pdf}**](https://arxiv.org/abs/1812.03506)
 - ECCV - Semantic Match Consistency for Long-Term Visual Localization [**{pdf}**](http://openaccess.thecvf.com/content_ECCV_2018/papers/Carl_Toft_Semantic_Match_Consistency_ECCV_2018_paper.pdf)
 - CVPR - InLoc: Indoor Visual Localization with Dense Matching and View Synthesis [**project**](http://www.ok.sc.e.titech.ac.jp/INLOC/) [**{pdf}**](https://arxiv.org/abs/1803.10368)
+- ECCV - Semantic Match Consistency for Long-Term
+Visual Localization  [**{pdf}**](http://openaccess.thecvf.com/content_ECCV_2018/papers/Carl_Toft_Semantic_Match_Consistency_ECCV_2018_paper.pdf)
 
 ##### 2017
 - ICRA - maplab: An Open Framework for Research in Visual-inertial Mapping and Localization [**{pdf}**](https://arxiv.org/pdf/1711.10250.pdf) [**{code-c++}**](https://github.com/ethz-asl/maplab)
