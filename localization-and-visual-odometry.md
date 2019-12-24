@@ -5,6 +5,8 @@
 - ICCV - Local Supports Global- Deep Camera Relocalization with Sequence Enhancement [**{pdf}**](https://arxiv.org/abs/1908.04391)
 - CVPR - Local Features and Visual Words Emerge in Activations [**{pdf}**](https://arxiv.org/abs/1905.06358)
 - arXiv - Visual Localization using Sparse Semantic 3D Map  [**{pdf}**](https://arxiv.org/pdf/1904.03803v2.pdf)
+- CVPR - Is This the Right Place?
+Geometric-Semantic Pose Verification for Indoor Visual Localization [**{pdf}**](http://openaccess.thecvf.com/content_ICCV_2019/papers/Taira_Is_This_the_Right_Place_Geometric-Semantic_Pose_Verification_for_Indoor_ICCV_2019_paper.pdf) [**{supplemental}**](http://openaccess.thecvf.com/content_ICCV_2019/supplemental/Taira_Is_This_the_ICCV_2019_supplemental.pdf)
 
 ##### 2018
 - CVPR - Learning Less is More – 6D Camera Localization via 3D Surface Regression [**{pdf}**](http://openaccess.thecvf.com/content_cvpr_2018/papers/Brachmann_Learning_Less_Is_CVPR_2018_paper.pdf) [**{code-Torch}**](https://github.com/vislearn/LessMore) [**{project}**](https://hci.iwr.uni-heidelberg.de/vislearn/research/scene-understanding/pose-estimation/#CVPR18)
