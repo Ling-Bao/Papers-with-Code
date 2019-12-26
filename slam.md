@@ -32,10 +32,14 @@
 - ICRA - Detection and Resolution of Motion Conflict in Visual Inertial Odometry [**{pdf}**](https://web.wpi.edu/Pubs/ETD/Available/etd-072918-114830/unrestricted/bpwiselybabu.pdf)
 - AAAI - VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem [**{pdf}**](https://arxiv.org/abs/1701.08376)
 - RAS - S-PTAM: Stereo Parallel Tracking and Mapping  [**{pdf}**](http://webdiis.unizar.es/~jcivera/papers/pire_etal_ras17.pdf) [**{code-python}**](https://github.com/uoip/stereo_ptam) [**{code-c++}**](https://github.com/lrse/sptam)
+- IEEE Transactions on Robotics - ORB SLAM2 : an Open-Source SLAM System for Monocular, Stereo and RGB-D Cameras  [**{pdf}**](https://arxiv.org/pdf/1610.06475.pdf) [**{pptx}**](http://cseweb.ucsd.edu/classes/sp17/cse252C-a/CSE252C_20170503.pdf) [**{code-c++-ORB_SLAM2}**](https://github.com/raulmur/ORB_SLAM2)
 
 ##### 2016
 - ICRA - Real-Time Loop Closure in 2D LIDAR SLAM [**{pdf}**](https://ai.google/research/pubs/pub45466)
 - IEEE T-IV - A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles [**{pdf}**](https://arxiv.org/pdf/1604.07446.pdf)
+
+#### 2015
+- IEEE Transactions on Robotics - ORB-SLAM: a Versatile and Accurate Monocular SLAM System  [**{pdf}**](https://arxiv.org/pdf/1502.00956.pdf) [**{code-c++-ORB_SLAM}**](https://github.com/raulmur/ORB_SLAM)
 
 ##### 2010
 - Field Robot(unknown) - Visual Sliding Window SLAM with Application to Planetary Landers [**{pdf}**](https://pdfs.semanticscholar.org/eeae/6c73a41a4ba106e82e10f577019d88302ba5.pdf)
