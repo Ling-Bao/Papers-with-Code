@@ -22,6 +22,7 @@
 - IROS - DS-SLAM: A Semantic Visual SLAM towards Dynamic Environments [**{pdf}**](https://arxiv.org/abs/1809.08379)
 - IROS - Online Temporal Calibration for Monocular Visual-Inertial Systems [**{pdf}**](http://arxiv.org/pdf/1808.00692)
 - CVPR - ICE-BA: Incremental, Consistent and Efficient Bundle Adjustment for Visual-Inertial SLAM [**{pdf}**](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_ICE-BA_Incremental_Consistent_CVPR_2018_paper.pdf) [**{code-c++}**](https://github.com/baidu/ICE-BA)
+- ECCV - VSO: Visual Semantic Odometry - [**{pdf}**](https://demuc.de/papers/lianos2018vso.pdf)
 
 ##### 2017
 - arXiv - Attention Is All You Need [**{pdf}**](https://arxiv.org/pdf/1706.03762.pdf) [**{code-tensorflow}**](https://github.com/Kyubyong/transformer) [**{code-pytorch}**](https://github.com/jadore801120/attention-is-all-you-need-pytorch) [**{code-keras}**](https://github.com/bojone/attention)
