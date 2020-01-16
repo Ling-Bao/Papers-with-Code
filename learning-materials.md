@@ -3,6 +3,7 @@
 ### Learning Materials
 ##### 2019
 - Automated Machine Learning [**{pdf}**](https://www.automl.org/wp-content/uploads/2019/05/AutoML_Book.pdf)
+- 旷视研究院SLAM组：三维视觉与机器人 - [**{百度网盘}**](https://pan.baidu.com/s/1cMw95tHbipQWBGaV2fcLbw) **{提取码: 4n29}**
 
 ##### 2018
 - PythonRobotics: a Python code collection of robotics algorithms [**{pdf}**](https://arxiv.org/pdf/1808.10703.pdf) [**{code-python}**](https://github.com/AtsushiSakai/PythonRobotics)
