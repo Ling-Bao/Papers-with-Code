@@ -2,7 +2,7 @@
 
 #### [0 Introduction](README.md)
 
-  Latest paper collection about Localization, Mapping, SLAM\(Simultaneous Localization and Mapping\), Deepth estimation and Visual Odometry, Optical Flow Estimation, Deep learning theory, Machine Learning theory etc.
+  Latest paper collection about Localization, Mapping, SLAM(Simultaneous Localization and Mapping), Deepth estimation and Visual Odometry, Optical Flow Estimation, Deep learning theory, Machine Learning theory etc. Including like NeurIPS, CVPR, ICCV, ECCV, IROS, ICRA etc.
 
 #### [1 Localization and Visual Odometry](localization-and-visual-odometry.md)
 
@@ -44,4 +44,7 @@
 
 #### [20 Computer Geometry](computer-geometry.md)
 
+#### [21 Neural Radiance Fields\(Nerf\)](nerf.md)
+
+#### [22 Multi-Sensor Fusion and Calibration](multi-sensor-fusion-and-calibration.md)
 

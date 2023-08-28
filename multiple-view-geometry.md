@@ -1,6 +1,8 @@
 ### [back](README.md)
 
 ### Multiple View Geometry
+
+---
 #### 1 Features
 ##### 2019
 - CVPR - SOSNet: Second Order Similarity Regularization for Local Descriptor Learning  [**{pdf}**](https://arxiv.org/abs/1904.05019?context=cs) [**{code-python}**](https://github.com/scape-research/SOSNet) [**{project}**](https://research.scape.io/sosnet/)
@@ -15,6 +17,7 @@ AKAZE, ORB, and BRISK [**{pdf}**](https://www.researchgate.net/publication/32356
 ##### 2009
 - SIAM Journal on Imaging Sciences - ASIFT: A NEW FRAMEWORK FOR FULLY AFFINE INVARIANT IMAGE COMPARISON  [**{pdf}**](http://www.cmap.polytechnique.fr/~yu/publications/ASIFT_SIIMS_final.pdf) [**{project}**](http://www.cmap.polytechnique.fr/~yu/research/ASIFT/demo.html)
 
+---
 #### 2 Matching
 ##### 2019
 - CVPR - Neural Best-Buddies: Sparse Cross-Domain Correspondence  [**{pdf}**](https://arxiv.org/abs/1805.04140?context=cs.CV)
@@ -26,3 +29,14 @@ AKAZE, ORB, and BRISK [**{pdf}**](https://www.researchgate.net/publication/32356
 
 ##### 2011
 - IEEE PAMI - Discriminative Learning of Local Image Descriptors  [**{pdf}**](https://www.researchgate.net/publication/47815467_Discriminative_Learning_of_Local_Image_Descriptors)
+
+---
+#### 3 PnP
+##### 2023
+- CVPR- Revisiting the P3P Problem [**{pdf}**](https://openaccess.thecvf.com/content/CVPR2023/papers/Ding_Revisiting_the_P3P_Problem_CVPR_2023_paper.pdf) [**{supplemental}**](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Ding_Revisiting_the_P3P_CVPR_2023_supplemental.pdf)
+
+##### 2018
+- ECCV- Lambda Twist: An Accurate Fast Robust Perspective Three Point (P3P) Solver [**{pdf}**](https://openaccess.thecvf.com/content_ECCV_2018/papers/Mikael_Persson_Lambda_Twist_An_ECCV_2018_paper.pdf) [**{code-c++}**](https://github.com/vlarsson/PoseLib)
+
+##### 2017
+- arxiv - An Efficient Algebraic Solution to the Perspective-Three-Point Problem [**{pdf}**](https://arxiv.org/pdf/1701.08237.pdf)

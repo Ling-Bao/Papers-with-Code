@@ -1,7 +1,17 @@
 ### [back](README.md)
 
 ### Simultaneous Localization and Mapping(SLAM)
+##### 2021
+- CVPR - Square Root Bundle Adjustment for Large-Scale Reconstruction [**{pdf}**](https://arxiv.org/pdf/2103.01843.pdf) [**{poster}**](https://cvg.cit.tum.de/_media/research/vslam/rootba/demmel2021cvpr_rootba_poster.pdf) [**{code-c++}**](https://github.com/NikolausDemmel/rootba) [**{project}**](https://cvg.cit.tum.de/research/vslam/rootba)
+- ICCV - Square Root Marginalization for Sliding-Window Bundle Adjustment [**{pdf}**](https://arxiv.org/pdf/2109.02182.pdf) [**{slides}**](https://cvg.cit.tum.de/_media/research/vslam/rootvo/demmel2021rootvo_slides.pdf) [**{code-c++}**](https://gitlab.com/VladyslavUsenko/basalt) [**{project}**](https://cvg.cit.tum.de/research/vslam/rootvo)
+- ICRA - FAST-LIO: A Fast, Robust LiDAR-inertial Odometry Package by Tightly-Coupled Iterated Kalman Filter [**{pdf}**](https://arxiv.org/pdf/2010.08196.pdf) [**{code-c++}**](https://github.com/hku-mars/FAST_LIO)
+- arxiv- FAST-LIO2: Fast Direct LiDAR-inertial Odometry [**{pdf}**](https://arxiv.org/pdf/2107.06829.pdf) [**{code-c++}**](https://github.com/hku-mars/FAST_LIO)
+
+##### 2020
+- TPAMI - Event-based Vision: A Survey [**{pdf}**](https://arxiv.org/pdf/1904.08405.pdf)
+
 ##### 2019
+- ICRA - Basalt: Visual-Inertial Mapping with Non-Linear Factor Recovery - [**{pdf}**](https://arxiv.org/pdf/1904.06504.pdf) [**{code-c++}**](https://github.com/VladyslavUsenko/basalt-mirror) [**{project}**](https://cvg.cit.tum.de/research/vslam/basalt)
 - GEN-SLAM: Generative Modeling for Monocular Simultaneous Localization and Mapping [**{pdf}**](http://export.arxiv.org/abs/1902.02086)
 - ICRA - CNN-SVO: Improving the Mapping in Semi-Direct Visual Odometry Using Single-Image Depth Prediction [**{pdf}**](https://arxiv.org/pdf/1810.01011.pdf) [**{code-c++)**}](https://github.com/yan99033/CNN-SVO)
 - ICRA - Real-Time Monocular Object-Model Aware Sparse SLAM [**{pdf}**](https://arxiv.org/abs/1809.09149)
@@ -20,8 +30,8 @@
 ##### 2018
 - CVPR Workshop(Best Student Paper Award) - Global Pose Estimation with an Attention-based Recurrent Network [**{pdf}**](https://arxiv.org/pdf/1802.06857.pdf)
 - IROS - DS-SLAM: A Semantic Visual SLAM towards Dynamic Environments [**{pdf}**](https://arxiv.org/abs/1809.08379)
-- IROS - Online Temporal Calibration for Monocular Visual-Inertial Systems [**{pdf}**](http://arxiv.org/pdf/1808.00692)
-- CVPR - ICE-BA: Incremental, Consistent and Efficient Bundle Adjustment for Visual-Inertial SLAM [**{pdf}**](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_ICE-BA_Incremental_Consistent_CVPR_2018_paper.pdf) [**{code-c++}**](https://github.com/baidu/ICE-BA)
+- IROS - Online Temporal Calibration for Monocular Visual-Inertial Systems [**{pdf}**](http://arxiv.org/pdf/1808.00692)
+- CVPR - ICE-BA: Incremental, Consistent and Efficient Bundle Adjustment for Visual-Inertial SLAM [**{pdf}**](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_ICE-BA_Incremental_Consistent_CVPR_2018_paper.pdf) [**{code-c++}**](https://github.com/baidu/ICE-BA)
 - ECCV - VSO: Visual Semantic Odometry - [**{pdf}**](https://demuc.de/papers/lianos2018vso.pdf)
 
 ##### 2017

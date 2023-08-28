@@ -31,8 +31,8 @@ Visual Localization  [**{pdf}**](http://openaccess.thecvf.com/content_ECCV_2018/
 - CVPR - VidLoc: A Deep Spatio-Temporal Model for 6-DoF Video-Clip Relocalization [**{pdf}**](http://www.cs.ox.ac.uk/files/9725/VidLoc.pdf)
 - ICCV - Globally-Optimal Inlier Set Maximisation for Simultaneous Camera Pose and Feature Correspondence [**{pdf}**](https://arxiv.org/pdf/1709.09384.pdf)
 - CVPR - Learned Contextual Feature Reweighting for Image Geo-Localization [**{pdf}**](http://openaccess.thecvf.com/content_cvpr_2017/html/Kim_Learned_Contextual_Feature_CVPR_2017_paper.html)
-- IROS - Deep Regression for Monocular Camera-based 6-DoF Global Localization in Outdoor Environments [**{pdf}**](http://ais.informatik.uni-freiburg.de/publications/papers/naseer17iros.pdf)
-- ICCC - Towards End-to-End Text Spotting in NaturalScenes [**{pdf}**](https://arxiv.org/pdf/1906.06013.pdf)
+- IROS - Deep Regression for Monocular Camera-based 6-DoF Global Localization in Outdoor Environments [**{pdf}**](http://ais.informatik.uni-freiburg.de/publications/papers/naseer17iros.pdf)
+- ICCC - Towards End-to-End Text Spotting in Natural Scenes [**{pdf}**](https://arxiv.org/pdf/1906.06013.pdf)
 
 ##### 2016
 - CVPR - NetVLAD: CNN architecture for weakly supervised place recognition [**{pdf}**](http://openaccess.thecvf.com/content_cvpr_2016/papers/Arandjelovic_NetVLAD_CNN_Architecture_CVPR_2016_paper.pdf) [**{code-matlab}**](https://github.com/Relja/netvlad) [**{code-tensorflow}**](https://github.com/uzh-rpg/netvlad_tf_open)
@@ -48,4 +48,5 @@ Visual Localization  [**{pdf}**](http://openaccess.thecvf.com/content_ECCV_2018/
 - CVPR - Optimized Product Quantization for Approximate Nearest Neighbor Search [**{pdf}**](http://kaiminghe.com/publications/cvpr13opq.pdf) [**{supplementary material}**](http://kaiminghe.com/cvpr13/cvpr13opq_supp.pdf) [**{ppt}**](http://kaiminghe.com/cvpr13/cvpr13opq_ppt.pdf) [**{code}**](http://kaiminghe.com/cvpr13/matlab_OPQ_release_v1.1.rar) [**{project}**](http://kaiminghe.com/cvpr13/index.html)
 
 ##### 2011
-- ECCV - Improving Image-Based Localization by Active Correspondence Search [**{pdf}**](http://120.52.51.19/pdfs.semanticscholar.org/cfcb/eeeb9be875f3b8c9ac99af18984d519e98ee.pdf)
+- ECCV - Improving Image-Based Localization by Active Correspondence Search
+ [**{pdf}**](http://120.52.51.19/pdfs.semanticscholar.org/cfcb/eeeb9be875f3b8c9ac99af18984d519e98ee.pdf)
