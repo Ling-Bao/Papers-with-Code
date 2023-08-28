@@ -1,6 +1,9 @@
 ### [back](README.md)
 
 ### Optimization Method
+##### 2022
+- arxiv - Theseus: A Library for Differentiable Nonlinear Optimization [**{pdf}**](https://arxiv.org/pdf/2207.09442.pdf) [**{code-pytorch}**](https://github.com/facebookresearch/theseus) [**{project}**](https://sites.google.com/view/theseus-ai/)
+
 ##### 2015
 - Unknown - Ceres Solver: A large scale non-linear optimization library [**{code-c++}**](https://github.com/ceres-solver/ceres-solver) [**{project}**](http://ceres-solver.org)
 

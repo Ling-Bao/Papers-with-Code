@@ -42,4 +42,6 @@
 
 #### [19 Nice Open Source Project](nice-open-source-project.md)
 
+#### [20 Computer Geometry](computer-geometry.md)
+
 
