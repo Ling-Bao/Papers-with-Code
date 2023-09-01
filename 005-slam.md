@@ -33,6 +33,7 @@
 - IROS - Online Temporal Calibration for Monocular Visual-Inertial Systems [**{pdf}**](http://arxiv.org/pdf/1808.00692)
 - CVPR - ICE-BA: Incremental, Consistent and Efficient Bundle Adjustment for Visual-Inertial SLAM [**{pdf}**](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_ICE-BA_Incremental_Consistent_CVPR_2018_paper.pdf) [**{code-c++}**](https://github.com/baidu/ICE-BA)
 - ECCV - VSO: Visual Semantic Odometry - [**{pdf}**](https://demuc.de/papers/lianos2018vso.pdf)
+- IROS - Information Sparsification in Visual-Inertial Odometry [**{pdf}**](https://shsiung.github.io/assets/pdf/Hsiung18iros.pdf)
 
 ##### 2017
 - arXiv - Attention Is All You Need [**{pdf}**](https://arxiv.org/pdf/1706.03762.pdf) [**{code-tensorflow}**](https://github.com/Kyubyong/transformer) [**{code-pytorch}**](https://github.com/jadore801120/attention-is-all-you-need-pytorch) [**{code-keras}**](https://github.com/bojone/attention)
@@ -51,6 +52,7 @@
 
 #### 2015
 - IEEE Transactions on Robotics - ORB-SLAM: a Versatile and Accurate Monocular SLAM System  [**{pdf}**](https://arxiv.org/pdf/1502.00956.pdf) [**{code-c++-ORB_SLAM}**](https://github.com/raulmur/ORB_SLAM)
+- ** - *** [**{pdf}**]() [**{code-c++}**]() [**{project}**]()
 
 ##### 2010
 - Field Robot(unknown) - Visual Sliding Window SLAM with Application to Planetary Landers [**{pdf}**](https://pdfs.semanticscholar.org/eeae/6c73a41a4ba106e82e10f577019d88302ba5.pdf)
