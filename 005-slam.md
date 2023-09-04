@@ -50,9 +50,11 @@
 - ICRA - Real-Time Loop Closure in 2D LIDAR SLAM [**{pdf}**](https://ai.google/research/pubs/pub45466)
 - IEEE T-IV - A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles [**{pdf}**](https://arxiv.org/pdf/1604.07446.pdf)
 
-#### 2015
+##### 2015
 - IEEE Transactions on Robotics - ORB-SLAM: a Versatile and Accurate Monocular SLAM System  [**{pdf}**](https://arxiv.org/pdf/1502.00956.pdf) [**{code-c++-ORB_SLAM}**](https://github.com/raulmur/ORB_SLAM)
-- ** - *** [**{pdf}**]() [**{code-c++}**]() [**{project}**]()
+ 
+##### 2012
+- ACM - 1€ Filter- A Simple Speed-based Low-pass Filter for Noisy Input in Interactive Systems [**{pdf}**](https://inria.hal.science/hal-00670496/document) [**{blog}**](https://zhuanlan.zhihu.com/p/512926901)
 
 ##### 2010
 - Field Robot(unknown) - Visual Sliding Window SLAM with Application to Planetary Landers [**{pdf}**](https://pdfs.semanticscholar.org/eeae/6c73a41a4ba106e82e10f577019d88302ba5.pdf)
