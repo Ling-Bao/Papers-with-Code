@@ -1,6 +1,9 @@
 ### [back](README.md)
 
 ### Simultaneous Localization and Mapping(SLAM)
+##### 2022
+- RA-L - DM-VIO: Delayed Marginalization Visual-Inertial Odometry [**{pdf}**](https://cvg.cit.tum.de/_media/research/vslam/dm-vio/dm-vio.pdf) [**{link}**](https://blog.csdn.net/qq_42257666/article/details/128560691) [**{code-c++}**](https://github.com/lukasvst/dm-vio) [**{project}**](https://cvg.cit.tum.de/research/vslam/dm-vio?redirect=1)
+
 ##### 2021
 - CVPR - Square Root Bundle Adjustment for Large-Scale Reconstruction [**{pdf}**](https://arxiv.org/pdf/2103.01843.pdf) [**{poster}**](https://cvg.cit.tum.de/_media/research/vslam/rootba/demmel2021cvpr_rootba_poster.pdf) [**{code-c++}**](https://github.com/NikolausDemmel/rootba) [**{project}**](https://cvg.cit.tum.de/research/vslam/rootba)
 - ICCV - Square Root Marginalization for Sliding-Window Bundle Adjustment [**{pdf}**](https://arxiv.org/pdf/2109.02182.pdf) [**{slides}**](https://cvg.cit.tum.de/_media/research/vslam/rootvo/demmel2021rootvo_slides.pdf) [**{code-c++}**](https://gitlab.com/VladyslavUsenko/basalt) [**{project}**](https://cvg.cit.tum.de/research/vslam/rootvo)
