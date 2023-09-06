@@ -37,6 +37,8 @@
 - CVPR - ICE-BA: Incremental, Consistent and Efficient Bundle Adjustment for Visual-Inertial SLAM [**{pdf}**](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_ICE-BA_Incremental_Consistent_CVPR_2018_paper.pdf) [**{code-c++}**](https://github.com/baidu/ICE-BA)
 - ECCV - VSO: Visual Semantic Odometry - [**{pdf}**](https://demuc.de/papers/lianos2018vso.pdf)
 - IROS - Information Sparsification in Visual-Inertial Odometry [**{pdf}**](https://shsiung.github.io/assets/pdf/Hsiung18iros.pdf)
+- TPAMI - Direct Sparse Odometry [**{pdf}**](https://arxiv.org/pdf/1607.02565.pdf) [**{code-c++}**](https://github.com/JakobEngel/dso) [**{project}**](https://cvg.cit.tum.de/research/vslam/dso?redirect=1)
+- ICRA - Direct Sparse Visual-Inertial Odometry using Dynamic Marginalization [**{pdf}**](https://arxiv.org/pdf/1804.05625.pdf) [**{supplementary}**](https://cvg.cit.tum.de/_media/research/vslam/vi-dso/vi-dso-supplementary-material.pdf) [**{code-c++}**](https://github.com/JakobEngel/dso) [**{project}**](https://cvg.cit.tum.de/research/vslam/vi-dso?redirect=1)
 
 ##### 2017
 - arXiv - Attention Is All You Need [**{pdf}**](https://arxiv.org/pdf/1706.03762.pdf) [**{code-tensorflow}**](https://github.com/Kyubyong/transformer) [**{code-pytorch}**](https://github.com/jadore801120/attention-is-all-you-need-pytorch) [**{code-keras}**](https://github.com/bojone/attention)
