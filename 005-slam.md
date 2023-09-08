@@ -39,6 +39,7 @@
 - IROS - Information Sparsification in Visual-Inertial Odometry [**{pdf}**](https://shsiung.github.io/assets/pdf/Hsiung18iros.pdf)
 - TPAMI - Direct Sparse Odometry [**{pdf}**](https://arxiv.org/pdf/1607.02565.pdf) [**{code-c++}**](https://github.com/JakobEngel/dso) [**{project}**](https://cvg.cit.tum.de/research/vslam/dso?redirect=1)
 - ICRA - Direct Sparse Visual-Inertial Odometry using Dynamic Marginalization [**{pdf}**](https://arxiv.org/pdf/1804.05625.pdf) [**{supplementary}**](https://cvg.cit.tum.de/_media/research/vslam/vi-dso/vi-dso-supplementary-material.pdf) [**{code-c++}**](https://github.com/JakobEngel/dso) [**{project}**](https://cvg.cit.tum.de/research/vslam/vi-dso?redirect=1)
+- RA-L - Online Photometric Calibration of Auto Exposure Video for Realtime Visual Odometry and SLAM [**{pdf}**](https://cvg.cit.tum.de/_media/spezial/bib/bergmann17calibration.pdf) [**{code-c++}**](https://github.com/tum-vision/online_photometric_calibration) [**{project}**](https://cvg.cit.tum.de/data/software)
 
 ##### 2017
 - arXiv - Attention Is All You Need [**{pdf}**](https://arxiv.org/pdf/1706.03762.pdf) [**{code-tensorflow}**](https://github.com/Kyubyong/transformer) [**{code-pytorch}**](https://github.com/jadore801120/attention-is-all-you-need-pytorch) [**{code-keras}**](https://github.com/bojone/attention)
