@@ -1,6 +1,9 @@
 ### [back](README.md)
 
 ### Simultaneous Localization and Mapping(SLAM)
+##### 2023
+- IROS - AirSLAM: An Efficient and Illumination-Robust Point-Line Visual SLAM System [**{pdf}**](https://arxiv.org/pdf/2408.03520) [**{code-c++}**](https://github.com/sair-lab/AirSLAM) [**{project}**](https://xukuanhit.github.io/airslam/)
+
 ##### 2022
 - RA-L - DM-VIO: Delayed Marginalization Visual-Inertial Odometry [**{pdf}**](https://cvg.cit.tum.de/_media/research/vslam/dm-vio/dm-vio.pdf) [**{link}**](https://blog.csdn.net/qq_42257666/article/details/128560691) [**{code-c++}**](https://github.com/lukasvst/dm-vio) [**{project}**](https://cvg.cit.tum.de/research/vslam/dm-vio?redirect=1) [**{video}**](https://www.youtube.com/watch?v=7iep3BvcJPU)
 

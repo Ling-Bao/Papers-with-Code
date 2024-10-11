@@ -1,6 +1,9 @@
 ### [back](README.md)
 
 ### Localization and Visual Odometry
+##### 2024
+- arXiv - Augmented Reality without Borders: Achieving Precise Localization Without Maps [**{pdf}**](https://arxiv.org/pdf/2408.17373)
+
 ##### 2019
 - ICCV - Local Supports Global- Deep Camera Relocalization with Sequence Enhancement [**{pdf}**](https://arxiv.org/abs/1908.04391)
 - CVPR - Local Features and Visual Words Emerge in Activations [**{pdf}**](https://arxiv.org/abs/1905.06358)
