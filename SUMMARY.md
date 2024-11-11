@@ -25,3 +25,4 @@
 * [022 Multi-Sensor Fusion and Calibration](022-multi-sensor-fusion-and-calibration.md)
 * [023 Sensors](023-sensors.md)
 * [024 Object Tracking](024-object-tracking.md)
+* [025 Artificial Intelligence of 3D](025-artificial-intelligence-of-3d.md)
